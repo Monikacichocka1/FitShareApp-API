@@ -1,0 +1,6 @@
+{
+    "env": {
+        "ATLAS_PASS": "admin1",
+        "JWT_PASS": "haslo"
+    }
+}
